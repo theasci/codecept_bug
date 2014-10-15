@@ -1,0 +1,10 @@
+class_name: AcceptanceTester
+bootstrap:
+modules:
+    enabled: [ WebDriver ]
+    config:
+      WebDriver:
+         url: 'about:blank'
+         host: '127.0.0.1'
+         port: 4444
+         browser: 'chrome'

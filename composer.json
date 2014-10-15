@@ -1,0 +1,6 @@
+{
+	"name": "theasci/codecept-bug",
+	"require": {
+		"codeception/codeception": "2.0.6"
+	}
+}
